@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactDatabase</string>
+    <string-array name="avatar_names">
+        <item>avatar1</item>
+        <item>avatar2</item>
+        <item>avatar3</item>
+        <item>avatar4</item>
+        <item>avatar5</item>
+    </string-array>
+</resources>
